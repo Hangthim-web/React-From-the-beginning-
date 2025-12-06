@@ -3,7 +3,12 @@
 // import lion_image from './assets/images/lion_image.jpg' 
 // import CounterDisplay from "./jsx_fc_props/CounterDisplay";
 // import Blog from "./jsx_fc_props/Blog";
-
+// import Badge from "./jsx_fc_props/Badge";
+// import Prac from "./us_event_render/Prac";
+// import Simple
+//  from "./us_event_render/usestatehookPrac/Counter";
+// import Form from "./us_event_render/usestatehookPrac/Form";
+import ShoppingList from "./us_event_render/usestatehookPrac/ShoppingList";
 
 const App=()=>
 {
@@ -14,7 +19,14 @@ const App=()=>
     {/* <CounterDisplay counter={20}/> */}
     {/* <Blog title="This is blog title" author="Hangthim Limbu" date="5th dec 2025" content="This is the main content ! "/> */}
 
-    
+     {/* <Badge text="React"/>
+     <Badge text="Beginner"/>
+     <Badge text="javascript"/>
+     <Badge text="pro"/> */}
+     {/* <Prac/> */}
+      {/* <Simple/> */}
+      {/* <Form/> */}
+      <ShoppingList/>
     <h1>This is The main application file </h1>
   </div> 
  )
