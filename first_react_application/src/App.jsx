@@ -9,7 +9,9 @@
 //  from "./us_event_render/usestatehookPrac/Counter";
 // import Form from "./us_event_render/usestatehookPrac/Form";
 // import ShoppingList from "./us_event_render/usestatehookPrac/ShoppingList";
-import Toggle from "./us_event_render/usestatehookPrac/Toggle";
+// import Toggle from "./us_event_render/usestatehookPrac/Toggle";
+import Quiz from "./us_event_render/usestatehookPrac/Quiz";
+
 const App=()=>
 {
  return (
@@ -27,7 +29,8 @@ const App=()=>
       {/* <Simple/> */}
       {/* <Form/> */}
       {/* <ShoppingList/> */}
-      <Toggle/>
+      {/* <Toggle/> */}
+      <Quiz/>
     <h1>This is The main application file </h1>
   </div> 
  )
