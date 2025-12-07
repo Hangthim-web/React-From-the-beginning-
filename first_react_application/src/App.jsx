@@ -10,8 +10,8 @@
 // import Form from "./us_event_render/usestatehookPrac/Form";
 // import ShoppingList from "./us_event_render/usestatehookPrac/ShoppingList";
 // import Toggle from "./us_event_render/usestatehookPrac/Toggle";
-import Quiz from "./us_event_render/usestatehookPrac/Quiz";
-
+// import Quiz from "./us_event_render/usestatehookPrac/Quiz";
+import CharacterCount from "./us_event_render/usestatehookPrac/CharacterCount";
 const App=()=>
 {
  return (
@@ -30,7 +30,8 @@ const App=()=>
       {/* <Form/> */}
       {/* <ShoppingList/> */}
       {/* <Toggle/> */}
-      <Quiz/>
+      {/* <Quiz/> */}
+      <CharacterCount/>
     <h1>This is The main application file </h1>
   </div> 
  )
