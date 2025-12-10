@@ -15,7 +15,10 @@
 // import ShoppingCart from "./list_Keys_forms_and_controller_components/ShoppingCart";
 // import ShoppingCart from "./list_Keys_forms_and_controller_components/ShoppingCart";
 // import CharacterCount from "./us_event_render/usestatehookPrac/CharacterCount";
-import ShoppingCartPar2 from "./list_Keys_forms_and_controller_components/ShoppingCartPart2";
+// import ShoppingCartPar2 from "./list_Keys_forms_and_controller_components/ShoppingCartPart2";
+import FormWithValidation from "./list_Keys_forms_and_controller_components/FormWithValidation";
+
+
 const App=()=>
 {
  return (
@@ -37,7 +40,9 @@ const App=()=>
       {/* <Quiz/> */}
       {/* <CharacterCount/> */}
       {/* <ShoppingCart/> */}
-      <ShoppingCartPar2/>
+      {/* <ShoppingCartPar2/>
+       */}
+       <FormWithValidation/>
     <h1>This is The main application file </h1>
   </div> 
  )
