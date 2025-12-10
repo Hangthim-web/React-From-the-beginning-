@@ -13,9 +13,9 @@
 // import Quiz from "./us_event_render/usestatehookPrac/Quiz";
 
 // import ShoppingCart from "./list_Keys_forms_and_controller_components/ShoppingCart";
-import ShoppingCart from "./list_Keys_forms_and_controller_components/ShoppingCart";
+// import ShoppingCart from "./list_Keys_forms_and_controller_components/ShoppingCart";
 // import CharacterCount from "./us_event_render/usestatehookPrac/CharacterCount";
-
+import ShoppingCartPar2 from "./list_Keys_forms_and_controller_components/ShoppingCartPart2";
 const App=()=>
 {
  return (
@@ -36,7 +36,8 @@ const App=()=>
       {/* <Toggle/> */}
       {/* <Quiz/> */}
       {/* <CharacterCount/> */}
-      <ShoppingCart/>
+      {/* <ShoppingCart/> */}
+      <ShoppingCartPar2/>
     <h1>This is The main application file </h1>
   </div> 
  )
