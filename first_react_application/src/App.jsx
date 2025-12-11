@@ -18,7 +18,7 @@
 // import ShoppingCartPar2 from "./list_Keys_forms_and_controller_components/ShoppingCartPart2";
 // import FormWithValidation from "./list_Keys_forms_and_controller_components/FormWithValidation";
 // import SearchableList from "./list_Keys_forms_and_controller_components/SearchableList";
-
+import SurveyForm from "./list_Keys_forms_and_controller_components/SurveyForm";
 const App=()=>
 {
  return (
@@ -44,6 +44,7 @@ const App=()=>
        */}
        {/* <FormWithValidation/> */}
        {/* <SearchableList/> */}
+       <SurveyForm/>
     <h1>This is The main application file </h1>
   </div> 
  )
